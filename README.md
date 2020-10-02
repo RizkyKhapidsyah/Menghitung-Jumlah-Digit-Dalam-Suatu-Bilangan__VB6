@@ -1,0 +1,2 @@
+# Menghitung-Jumlah-Digit-Dalam-Suatu-Bilangan__VB6
+Bahan Ajar Fundamental Pemrograman Visual Basic 6.0 - Menghitung Jumlah Digit Dalam Suatu Bilangan
